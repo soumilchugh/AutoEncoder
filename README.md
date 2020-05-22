@@ -19,5 +19,5 @@
  
  # Output Images from the Autoencoder
  
- <img src="https://github.com/soumilchugh/AutoEncoder/blob/master/Output1.jpg" height="300" width="200"> <img src=" https://github.com/soumilchugh/AutoEncoder/blob/master/Output2.jpg" height="300" width="200"/> <img src=" https://github.com/soumilchugh/AutoEncoder/blob/master/Output3.jpg" height="300" width="200"/> <img src="https://github.com/soumilchugh/AutoEncoder/blob/master/Output4.png" height="300" width="200"/>
+ <img src="https://github.com/soumilchugh/AutoEncoder/blob/master/output1.jpg" height="300" width="200"> <img src=" https://github.com/soumilchugh/AutoEncoder/blob/master/output2.jpg" height="300" width="200"/> <img src=" https://github.com/soumilchugh/AutoEncoder/blob/master/output3.jpg" height="300" width="200"/> <img src="https://github.com/soumilchugh/AutoEncoder/blob/master/output4.png" height="300" width="200"/>
 
