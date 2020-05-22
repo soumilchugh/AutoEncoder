@@ -11,3 +11,13 @@
  * Data Class loads the data
  * Model class sets the loss and the optimizer
  * Train class runs the training and validation 
+ 
+ # Input and their corresponding output images.
+ * Here the input image has contrast and brightness enhanced. In addition salt and pepper noise is added in the form of small bright spots which are different from the real reflections on the cornea of the eye. 
+ 
+ <img src="https://github.com/soumilchugh/AutoEncoder/blob/master/image1.jpg" height="300" width="200"> <img src=" https://github.com/soumilchugh/AutoEncoder/blob/master/image2.jpg" height="300" width="200"/> <img src=" https://github.com/soumilchugh/AutoEncoder/blob/master/image3.jpg" height="300" width="200"/> <img src="https://github.com/soumilchugh/AutoEncoder/blob/master/image4.png" height="300" width="200"/>
+ 
+ # Output Images from the Autoencoder
+ 
+ <img src="https://github.com/soumilchugh/AutoEncoder/blob/master/Output1.jpg" height="300" width="200"> <img src=" https://github.com/soumilchugh/AutoEncoder/blob/master/Output2.jpg" height="300" width="200"/> <img src=" https://github.com/soumilchugh/AutoEncoder/blob/master/Output3.jpg" height="300" width="200"/> <img src="https://github.com/soumilchugh/AutoEncoder/blob/master/Output4.png" height="300" width="200"/>
+
